@@ -1,0 +1,1 @@
+User.create(full_name: 'Seth G', email: 'abc@123.com', password_hash: 'password')
